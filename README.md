@@ -1,1 +1,1 @@
-# This is my Machine Learning coursework
+Machine Learning coursework - Comparison of Logistic Regression and Naïve Bayes
